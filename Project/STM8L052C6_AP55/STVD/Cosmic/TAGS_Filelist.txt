@@ -1,0 +1,36 @@
+..\..\..\..\libraries\stm8l15x_stdperiph_driver\src\stm8l15x_exti.c
+..\..\..\..\libraries\stm8l15x_stdperiph_driver\src\stm8l15x_usart.c
+..\..\..\..\libraries\stm8l15x_stdperiph_driver\src\stm8l15x_tim2.c
+..\..\..\..\libraries\stm8l15x_stdperiph_driver\src\stm8l15x_rtc.c
+..\..\..\..\libraries\stm8l15x_stdperiph_driver\src\stm8l15x_pwr.c
+..\..\..\..\libraries\stm8l15x_stdperiph_driver\src\stm8l15x_gpio.c
+..\..\..\..\libraries\stm8l15x_stdperiph_driver\src\stm8l15x_flash.c
+..\..\..\..\libraries\stm8l15x_stdperiph_driver\src\stm8l15x_clk.c
+..\..\..\..\libraries\stm8l15x_stdperiph_driver\src\stm8l15x_adc.c
+..\..\factory.c
+..\..\app.c
+..\..\key.c
+..\..\init.c
+..\..\main.c
+..\..\stm8l15x_it.c
+stm8_interrupt_vector.c
+..\..\..\..\libraries\stm8l15x_stdperiph_driver\inc\stm8l15x.h
+..\..\..\..\libraries\stm8l15x_stdperiph_driver\inc\stm8l15x_adc.h
+..\..\..\..\libraries\stm8l15x_stdperiph_driver\inc\stm8l15x_clk.h
+..\..\..\..\libraries\stm8l15x_stdperiph_driver\inc\stm8l15x_exti.h
+..\..\..\..\libraries\stm8l15x_stdperiph_driver\inc\stm8l15x_flash.h
+..\..\..\..\libraries\stm8l15x_stdperiph_driver\inc\stm8l15x_gpio.h
+..\..\..\..\libraries\stm8l15x_stdperiph_driver\inc\stm8l15x_pwr.h
+..\..\..\..\libraries\stm8l15x_stdperiph_driver\inc\stm8l15x_rtc.h
+..\..\..\..\libraries\stm8l15x_stdperiph_driver\inc\stm8l15x_syscfg.h
+..\..\..\..\libraries\stm8l15x_stdperiph_driver\inc\stm8l15x_tim2.h
+..\..\..\..\libraries\stm8l15x_stdperiph_driver\inc\stm8l15x_usart.h
+..\..\app.h
+..\..\factory.h
+..\..\init.h
+..\..\key.h
+..\..\stm8l15x_conf.h
+..\..\stm8l15x_it.h
+c:\program files (x86)\cosmic\cxstm8_32k\hstm8\modsl0.h
+c:\program files (x86)\cosmic\cxstm8_32k\hstm8\stdbool.h
+c:\program files (x86)\cosmic\cxstm8_32k\hstm8\stdio.h
